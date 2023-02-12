@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/schleu/schleu/blob/output/github-contribution-grid-snake.svg)
+
 
 ### Github Stats:
 
